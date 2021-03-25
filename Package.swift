@@ -3,6 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "PDFReader",
+    defaultLocalization: "en",
     platforms: [
         .iOS("8.0")
     ],
