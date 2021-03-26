@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .target(
             name: "PDFReader",
-            path: "PDFReader",
+            path: "Sources",
             exclude: [
                 "Info.plist",
             ],
